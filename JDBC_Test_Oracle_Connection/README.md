@@ -1,0 +1,1 @@
+Sample JDBC Test Project to connect and test connection with Oracle Database
